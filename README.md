@@ -2,7 +2,7 @@
 
 My name is Stepan and I am a full-stack developer, but I prefer working on the backend 😊
 
-### My tech stack:
+### My main tech stack:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
