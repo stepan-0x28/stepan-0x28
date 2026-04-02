@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Stepan and I am a full-stack developer, but I prefer working on the backend 😊
+My name is Stepan and I am a full-stack developer, but I prefer working on the backend.
 
 ### My main tech stack:
 
